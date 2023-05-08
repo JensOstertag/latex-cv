@@ -135,7 +135,7 @@
 
 \renewcommand{\maketitle}{
     \noindent\begin{minipage}{.75\textwidth}
-        \LARGE\textbf{Jens Ostertag}\normalsize\\[5mm]
+        \LARGE\textbf{\@name}\normalsize\\[5mm]
         \begin{tabular}{@{}cl}
             {\color{black}\faMapMarker} & {\color{lightTextColor}\@address}\\
             {\color{black}\faBirthdayCake} & {\color{lightTextColor}\@birthday}\\\\
