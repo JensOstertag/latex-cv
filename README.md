@@ -15,10 +15,10 @@ Project_Folder
   ╟─  img
   ║      ╙─  avatar.png
   ╟─  sections
-  ║      ╟─  achievements.png
-  ║      ╟─  education.png
-  ║      ╟─  skills.png
-  ║      ╙─  work.png
+  ║      ╟─  achievements.tex
+  ║      ╟─  education.tex
+  ║      ╟─  skills.tex
+  ║      ╙─  work.tex
   ╟─  cv.cls
   ╙─  main.tex
 ```
@@ -75,7 +75,7 @@ For an Example of the Possibilities that you have in the Sections, take a Look a
 	  \itemDescriptionDate{Work Place}{Employment Type}{From}{}
 		\itemDetail{Work Description}
 	\end{cv-item}
-	
+
 	\begin{cv-item}{work-item-name-2}
 	  \itemDescriptionDate{Work Place}{Employment Type}{From}{To}
 		\itemDetail{Work Description}
